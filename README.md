@@ -10,3 +10,15 @@ time.sleep(2)
 element=driver.find_element(By.TAG_NAME,"h1")
 print(element.txt)
 driver.quit()
+
+
+
+
+git --version
+git config --global user.name "  "
+git config --global user.email "   "
+git clone "https: url"
+echo
+git add .
+git commit
+git push
